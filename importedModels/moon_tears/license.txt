@@ -1,0 +1,8 @@
+Model Information:
+* title:	Moon tears
+* source:	https://sketchfab.com/3d-models/moon-tears-92cf59bfec984575918226624ff475a5
+* author:	FORD (https://sketchfab.com/vaydaroman08)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Miniature Christmas Store
+* source:	https://sketchfab.com/3d-models/miniature-christmas-store-03027f3ad05c4629953f67aafa066b55
+* author:	Horton (https://sketchfab.com/Horton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Miniature Christmas Store" (https://sketchfab.com/3d-models/miniature-christmas-store-03027f3ad05c4629953f67aafa066b55) by Horton (https://sketchfab.com/Horton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

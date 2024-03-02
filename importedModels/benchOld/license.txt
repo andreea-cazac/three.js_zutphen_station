@@ -1,0 +1,8 @@
+Model Information:
+* title:	bench
+* source:	https://sketchfab.com/3d-models/bench-544892c56ef844c3b505226a7479c68b
+* author:	Sleepton (https://sketchfab.com/Sleepton)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

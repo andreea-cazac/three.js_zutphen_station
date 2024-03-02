@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mount Royal Train Station
+* source:	https://sketchfab.com/3d-models/mount-royal-train-station-4d85efed1df547988c00c6f604b7814a
+* author:	Katie Wolfe (https://sketchfab.com/katiewolfe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mount Royal Train Station" (https://sketchfab.com/3d-models/mount-royal-train-station-4d85efed1df547988c00c6f604b7814a) by Katie Wolfe (https://sketchfab.com/katiewolfe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

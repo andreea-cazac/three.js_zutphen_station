@@ -1,0 +1,8 @@
+Model Information:
+* title:	Moscow Lamp Post
+* source:	https://sketchfab.com/3d-models/moscow-lamp-post-2cfd9d36706940ce96ff3bbbc98416ac
+* author:	CrazyPolski103 (https://sketchfab.com/goofy_ah_pole)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

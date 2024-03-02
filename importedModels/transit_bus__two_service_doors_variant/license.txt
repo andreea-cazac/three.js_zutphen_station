@@ -1,0 +1,11 @@
+Model Information:
+* title:	Transit Bus | Two Service Doors (variant)
+* source:	https://sketchfab.com/3d-models/transit-bus-two-service-doors-variant-80ccd0ba61af4c0cbc862db81b85a3e1
+* author:	kurtismedia (https://sketchfab.com/kurtismedia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Transit Bus | Two Service Doors (variant)" (https://sketchfab.com/3d-models/transit-bus-two-service-doors-variant-80ccd0ba61af4c0cbc862db81b85a3e1) by kurtismedia (https://sketchfab.com/kurtismedia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
