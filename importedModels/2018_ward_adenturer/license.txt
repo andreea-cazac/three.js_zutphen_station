@@ -1,0 +1,8 @@
+Model Information:
+* title:	2018 Ward Adenturer
+* source:	https://sketchfab.com/3d-models/2018-ward-adenturer-650cfbdfc3c0481d93d24427dc29cea6
+* author:	RealgrumpyKitten1 (https://sketchfab.com/RealgrumpyKitten1)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

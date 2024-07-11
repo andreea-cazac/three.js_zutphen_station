@@ -1,0 +1,8 @@
+Model Information:
+* title:	LODs - Audi q4 sportback - NOT FULL 3D!!
+* source:	https://sketchfab.com/3d-models/lods-audi-q4-sportback-not-full-3d-f69b8a867f8f479bbac0c356029d9ccf
+* author:	Unity Fan youtube channel (https://sketchfab.com/unityfan777)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
