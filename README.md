@@ -16,9 +16,12 @@ This project aims to recreate the Zutphen station with a blend of reality and ar
 
 To take a look in real time at my project, check this website: https://andreea-cazac.github.io/three.js_zutphen_station/
 
-To view and interact with the project, follow these steps:
+## Feedback and Contributions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/three.js_zutphen_station.git
-   cd three.js_zutphen_station
+We welcome your feedback and ideas to improve this project! If you have suggestions for new features, improvements, or if you encounter any issues, please let us know. You can contribute by:
+
+- Opening an issue on the [GitHub repository](https://github.com/andreea-cazac/three.js_zutphen_statiom).
+- Submitting a pull request with your improvements or bug fixes.
+- Sharing your thoughts or ideas for new games or enhancements.
+
+Your contributions help make this project better for everyone. Thank you for being a part of this educational adventure!
